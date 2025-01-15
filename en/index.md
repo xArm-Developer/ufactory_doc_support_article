@@ -14,7 +14,7 @@ hero:
 
 
 features:
-  - title: User Manual
+  - title: Support Article
     icon: 
       src: /assets/support_article.svg
       width: 400
