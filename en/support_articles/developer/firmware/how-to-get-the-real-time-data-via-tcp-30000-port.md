@@ -68,11 +68,11 @@ while cnt<1000:
 
 ### 3. Parsing Data
 
-get_joint_angle\_30000.py:  Read actual joint angles via port 30000 and save to joint_pos.csv.
+* get_joint_angle\_30000.py:  Read actual joint angles via port 30000 and save to joint_pos.csv.
 
-read\_csv.py:  read the data and use 'matplolib' to draw the curve.
+* read\_csv.py:  read the data and use 'matplolib' to draw the curve.
 
-
+1\) get_joint_angle\_30000.py
 ```python
 import time
 import math
@@ -161,7 +161,7 @@ print(dur)
 ```
 
 
-read_csv.py
+2\)read_csv.py
 ```python
 import csv
 import pandas as pd
@@ -190,10 +190,11 @@ plt.show()
 
 Example:
 
-<a href="annex/[joint_pose.docx](https://github.com/xArm-Developer/ufactory_docs/tree/main/support_articles/.gitbook/assets)" target="_blank">joint_pose.csv</a>
-
-
+[joint_pose.csv](../../assets/joint_pose.csv)
 
 Result:
 
-![](../assets/image(59).png)
+![](../../assets/image(59).png)
+
+
+

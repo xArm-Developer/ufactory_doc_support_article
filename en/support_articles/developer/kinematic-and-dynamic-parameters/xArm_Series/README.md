@@ -1,5 +1,4 @@
 
-
 # xArm Series
 
 Kinematic and Dynamic Parameters of xArm Series
@@ -7,7 +6,7 @@ Kinematic and Dynamic Parameters of xArm Series
 The purpose of this article is to guide the user to distinguish the model of UFactory xArm by SN.
 
 
-![](../assets/SerialNumber(1).png)
+![](../../../assets/SerialNumber(1).png)
 
 
 Note:

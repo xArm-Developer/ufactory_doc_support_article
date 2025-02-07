@@ -17,7 +17,15 @@ This article mainly explains the connection method of the Robotiq Gripper and
 
 #### 2) Connection
 
-<table data-full-width="false"><thead><tr><th width="197" align="center">Robotiq connector</th><th width="198" align="center">Robotiq connector</th><th width="174" align="center">xarm tool end</th><th align="center">xarm tool end</th></tr></thead><tbody><tr><td align="center"><strong>Color</strong></td><td align="center"><strong>Signal</strong></td><td align="center"><strong>Color</strong></mark></td><td align="center"><strong>Signal</strong></mark></td></tr><tr><td align="center">red</td><td align="center">+24V DC</td><td align="center">Brown or Blue</td><td align="center">+24V DC</td></tr><tr><td align="center">black</td><td align="center">-24V DC</td><td align="center">white</td><td align="center">GND</td></tr><tr><td align="center">white</td><td align="center">485-A</td><td align="center">pink</td><td align="center">User 485-A</td></tr><tr><td align="center">green</td><td align="center">485-B</td><td align="center">yellow</td><td align="center">User 485-B</td></tr><tr><td align="center">grey</td><td align="center">485 GND</td><td align="center">green</td><td align="center">GND</td></tr></tbody></table>
+| Robotiq connector | Robotiq connector | xArm tool end | xArm tool end |
+|-------------------|-------------------|---------------|---------------|
+| **Color**         | **Signal**        | **Color**     | **Signal**    |
+| red               | +24V DC           | brown或者blue   | +24V DC       |
+| black             | -24V DC           | white         | GND           |
+| white             | 485-A             | pink          | User 485-A    |
+| green             | 485-B             | yellow        | User 485-B    |
+| grey              | 485 GND           | green         | GND           |
+
 
 ### 3. Parameter Config
 

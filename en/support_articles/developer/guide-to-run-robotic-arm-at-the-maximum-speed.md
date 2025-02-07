@@ -44,11 +44,13 @@ It is recommended to adjust the jerk to the maximum, which will speed up the mot
 
 3\) Jerk: set\_tcp\_jerk() , set\_joint\_jerk()
 
-<pre><code><strong>//code example
-</strong><strong>arm.set_tcp_jerk(100000)
-</strong>arm.set_joint_jerk(28647, is_radian=True)
+
+```
+//code example
+arm.set_tcp_jerk(100000)
+arm.set_joint_jerk(28647, is_radian=True)
 arm.save_conf()
-</code></pre>
+```
 
 
 

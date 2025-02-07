@@ -11,11 +11,13 @@ There are 2 typical features of the gimbal lock situation on the robotic arm.
 
 ![](../assets/tool_coordinate.png)
 
+
 2\. When the robot is at a pos of Pitch=±90°, the robot will report a different Roll and Yaw with the pos you sent to the robot. As the robot will lose one degree of freedom, **we keep Yaw=0°**. The value of Roll can refer to the following matrix.
 
 Consider Roll, pitch and yaw angles have the values of α, β and γ respectively. The rotation matrix(R) of the TCP orientation should be:
 
 A simple way to verify is:  (Roll\_send - Roll\_report) ±  (Yaw\_send - Yaw\_report) = 0 or ±360°.
+
 
 ![](../assets/rotation_matrix(1).jpg)
 
