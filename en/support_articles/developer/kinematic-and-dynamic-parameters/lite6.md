@@ -6,7 +6,10 @@ Kinematic and Dynamic Parameters of UFACTORY Lite 6
 
 **1. Modified D-H Parameters**
 
-<table data-full-width="false"><thead><tr><th>Size Parameters: (unit:mm)</th><th>Joint Coordinate Definition</th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image(30).png" alt="" data-size="original"></td><td><img src="../../.gitbook/assets/image(31).png" alt=""></td></tr></tbody></table>
+
+| Size Parameters: (unit:mm)      | Joint Coordinate Definition     |
+|---------------------------------|---------------------------------|
+| ![](../../assets/image(30).png) | ![](../../assets/image(31).png) |
 
 <table data-full-width="false"><thead><tr><th width="163">Kinematics</th><th width="166">theta offset(deg)</th><th>d(mm)</th><th>alpha(deg)</th><th>a(mm)</th></tr></thead><tbody><tr><td>Joint1</td><td>0</td><td>243.3</td><td>0</td><td>0</td></tr><tr><td>Joint2</td><td>-90</td><td>0</td><td>-90</td><td>0</td></tr><tr><td>Joint3</td><td>-90</td><td>0</td><td>180</td><td>200</td></tr><tr><td>Joint4</td><td>0</td><td>227.6</td><td>90</td><td>87</td></tr><tr><td>Joint5</td><td>0</td><td>0</td><td>90</td><td>0</td></tr><tr><td>Joint6</td><td>0</td><td>61.5</td><td>-90</td><td>0</td></tr></tbody></table>
 
