@@ -1,14 +1,6 @@
-
 # How to use Robotiq Gripper on xArm tool end?
 
 This article mainly explains the connection method of the Robotiq Gripper and xArm, and the usage example of the robotiq gripper.
-
-### 1.  Hardware
-
-* Gripper: Robotiq 2F-85/ Robotiq 2F-140
-* Robotic Arm: xArm5/ xarm6/ xArm7
-
-### 2. Cable connection
 
 #### 1) Pin Definition
 
