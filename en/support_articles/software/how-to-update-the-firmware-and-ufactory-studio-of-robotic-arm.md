@@ -23,7 +23,7 @@ SDK: [https://github.com/xArm-Developer](https://github.com/xArm-Developer)
 
 Go to [My Device] → [Check for Update], click "Check for Update", if there is a new version, click "Download", click "Install" to load the downloaded installation package, and wait for the system to reboot. The reboot will take about 2-3 minutes.
 
-![](assets/image(1)(1)(1)(1)(1)(1)(1)(1)(1)(1).png)
+![](../assets/image(1)(1)(1)(1)(1)(1)(1)(1)(1)(1).png)
 
 ### 2. Offline Upgrade: When the PC has no network connection.
 
@@ -33,7 +33,7 @@ Download the latest offline package.  [_xArm/UF850_](https://drive.google.com/dr
 
 Go to [My Device] - [Check Update], click "Install" to load the offline package downloaded in advance, reboot the system, it will take 2-3 minutes.
 
-![](assets/image(1)(1)(1)(1)(1)(1)(1)(1)(1)(1)(1).png)
+![](../assets/image(1)(1)(1)(1)(1)(1)(1)(1)(1)(1)(1).png)
 
 * Use the xArm-tool-gui tool to do the offline upgrade:
 
@@ -42,7 +42,7 @@ Download the[ xarm-tool-gui ](https://drive.google.com/drive/folders/1WOcMMRXo0X
 2) Click \[xArmStudio] - \[Offline Installation], select the offline package downloaded in advance, click \[Install], the interface will pop up a prompt "Install Studio successfully".\
 3) Click \[Reboot Control Box], wait for 2-3 minutes for the controller to finish rebooting and reconnect.
 
-![](assets/image(51).png)
+![](../assets/image(51).png)
 
 
 **Note:** If the online upgrade fails, you can try the offline upgrade. When the offline upgrade is still unsuccessful, please contact the support team(support@ufactory.cc).

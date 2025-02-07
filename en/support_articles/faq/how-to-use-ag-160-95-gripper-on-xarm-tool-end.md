@@ -13,7 +13,7 @@ This article mainy explains the connection method of AG-160-95 gripper from
 
 1\) Pin Definition
 
-![](assets/AG-160-95gripper.jpg)
+![](../assets/AG-160-95gripper.jpg)
 
 2\) Connection
 
@@ -25,7 +25,7 @@ The main parameter is the Baud rate, TCP offset, TCP payload, and self-collision
 
 1\) Enter into 'Settings-Externals-Modbus RTU', choose '**115200**', and save.
 
-![](assets/image(2)(1)(1)(1)(1)(1).png)
+![](../assets/image(2)(1)(1)(1)(1)(1).png)
 
 2\) Send command.
 

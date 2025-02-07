@@ -196,4 +196,4 @@ Example:
 
 Result:
 
-![](assets/image(59).png)
+![](../assets/image(59).png)

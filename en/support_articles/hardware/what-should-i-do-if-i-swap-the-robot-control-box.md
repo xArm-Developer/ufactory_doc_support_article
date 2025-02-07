@@ -6,21 +6,21 @@ Each xArm/UF850 should come with a control box, and there’s no problem replaci
 
 Export and import the configuration file easily to the new control box via 'Settings-General-Advanced Settings-Logic-Export/Import Configuration'.
 
-![](assets/image(37).png)
+![](../assets/image(37).png)
 
 **2. ‘Blcokly Project’ and ‘Recording File’**
 
 Export and import the projects via the ‘Blockly’/’Recording’ module.
 
-![](assets/image(1)(1)(1)(1)(1)(1)(1)(1)(1)(1)(1)(1).png)
+![](../assets/image(1)(1)(1)(1)(1)(1)(1)(1)(1)(1)(1)(1).png)
 
-![](assets/image(2)(1)(1)(1)(1)(1)(1).png)
+![](../assets/image(2)(1)(1)(1)(1)(1)(1).png)
 
 **3. Friction parameters**
 
 The first 6 characters of SN help to identify the model of your robot.
 
-[![](https://xarm.intercom-attachments-7.com/i/o/697937435/2470bc27cd92ca2fcbd194d0/aCsnA5kP5ONWK1DqFV4zD5O3Uy7HggbEtGrSSBOvT6\_M0krNv\_K5FlZmTWEAHPwh-cQndz1C38yDrL2I\_pDSawcUfSpy\_Sf9ciXql7vtrBlNhKtygoo78f6jUuu\_QUSsistUzn-gjfDYmR0tXoU\_-hs)](https://xarm.intercom-attachments-7.com/i/o/697937435/2470bc27cd92ca2fcbd194d0/aCsnA5kP5ONWK1DqFV4zD5O3Uy7HggbEtGrSSBOvT6\_M0krNv\_K5FlZmTWEAHPwh-cQndz1C38yDrL2I\_pDSawcUfSpy\_Sf9ciXql7vtrBlNhKtygoo78f6jUuu\_QUSsistUzn-gjfDYmR0tXoU\_-hs)
+![](../assets/SerialNumber(1).png)
 
 Regardless of the model of the control box:
 

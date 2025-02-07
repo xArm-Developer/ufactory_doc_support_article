@@ -4,7 +4,7 @@
 
 'Live Control - Position Control - Control- Aligning the Hand'.
 
-![](assets/image(52).png)
+![](../assets/image(52).png)
 
 ### 2. Python SDK
 

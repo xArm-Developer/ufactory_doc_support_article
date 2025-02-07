@@ -13,7 +13,7 @@ This article mainly explains the connection method of the Robotiq Gripper and
 
 #### 1) Pin Definition
 
-![](assets/RobotiqGripper.jpg)
+![](../assets/RobotiqGripper.jpg)
 
 #### 2) Connection
 
@@ -27,13 +27,13 @@ The main parameter is the Baud rate, TCP offset, TCP payload, and self-collision
 
 TCP Payload and offset: 'Settings-Motion-TCP'.
 
-![](assets/image(10).png)
+![](../assets/image(10).png)
 
 Self-collision prevention model: 'Settings-Live Control-End Effector', choose Robotiq Gripper.
 
 Please choose 'yes', It will set the baud rate to 115200, the default baud rate is 2000000.
 
-![](assets/image(53).png)
+![](../assets/image(53).png)
 
 #### 2) Config the parameter via Python SDK
 
@@ -81,13 +81,13 @@ UFactory Studio - Live Control:
 
 <div align="left">
 
-![](assets/image(4)(1)(1)(1).png)
+![](../assets/image(4)(1)(1)(1).png)
 
 
 
 UFactory Studio - Blockly:
 
-![](assets/image(5)(1)(1).png)
+![](../assets/image(5)(1)(1).png)
 
 #### 2) Control it via Python SDK
 

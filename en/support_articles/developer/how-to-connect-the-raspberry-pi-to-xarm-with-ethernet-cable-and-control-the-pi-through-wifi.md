@@ -65,7 +65,7 @@ pi@raspberrypi:\~ $ sudo nano /etc/dhcpcd.conf
 
 <div align="left">
 
-![](assets/image(57).png)
+![](../assets/image(57).png)
 
 </div>
 
@@ -73,7 +73,7 @@ After the modification is successful, reconnect the Raspberry Pi network cable t
 
 <div align="left">
 
-![](assets/image2.png)
+![](../assets/image2.png)
 
 </div>
 
@@ -89,6 +89,6 @@ In this connection way, Raspberry Pi can ping the xArm directly.
 
 <div align="left">
 
-![](assets/image3.png)
+![](../assets/image3.png)
 
 </div>
