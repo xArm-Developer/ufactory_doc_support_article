@@ -5,10 +5,27 @@
 The purpose of this article is to describe the differences between UFACTORY
   xArm5, xArm6 and xArm7.
 ### 1. Specifications
+|                       | **SPECIFICATION** |        |        |
+| --------------------- | ----------------- | ------ | ------ |
+|                       | xArm 5 Lite       | xArm 6 | xArm 7 |
+| Payload(kg)           | 3kg               | 5kg    | 3.5kg  |
+| Reach(mm)             | 700mm             | 700mm  | 700mm  |
+| Degrees of Freedom    | 5                 | 6      | 7      |
+| Maximum Speed(m/s)    | 1m/s              | 1m/s   | 1m/s   |
+| Weight(kg, body only) | 11.2kg            | 12.2kg | 13.7kg |
 
-<table data-header-hidden data-full-width="true"><thead><tr><th width="237"></th><th>SPECIFICATION</th><th></th><th></th></tr></thead><tbody><tr><td></td><td>xArm 5 Lite</td><td>xArm 6</td><td>xArm 7</td></tr><tr><td>Payload(kg)</Payload></mark></td><td>3kg</td><td>5kg</td><td>3.5kg</td></tr><tr><td>Reach(mm)</td><td>700mm</td><td>700mm</td><td>700mm</td></tr><tr><td>Degrees of Freedom</td><td>5</td><td>6</td><td>7</td></tr><tr><td>Maximum Speed(m/s)</td><td>1m/s</td><td>1m/s</td><td>1m/s</td></tr><tr><td>Weight(kg, body only)</td>11.2kg</td><td>12.2kg</td><td>13.7kg</td></tr></tbody></table>
+|               | xArm 5 Lite  | xArm 6      | xArm 7      |
+| ------------- | ------------ | ----------- | ----------- |
+| Maximum Speed | 180°/s       | 180°/s      | 180°/s      |
+| Joint1        | ±360°        | ±360°       | ±360°       |
+| Joint2        | -118° ~ 120° | -118°～120° | -118°～120° |
+| Joint3        | -225°~11°    | -225°~11°   | ±360°       |
+| Joint4        | -97°~180°    | ±360°       | -11°～225°  |
+| Joint5        | ±360°        | -97°~180°   | ±360°       |
+| Joint6        |              | ±360°       | -97°~180°   |
+| Joint7        |              |             | ±360°       |
 
-<table data-header-hidden data-full-width="true"><thead><tr><th width="181"></th><th width="185" ></th><th width="194" ></th><th ></th></tr></thead><tbody><tr><td></td><td>xArm 5 Lite</td><td>xArm 6</td><td>xArm 7</td></tr><tr><td>Maximum Speed</td><td>180°/s</td><td>180°/s</td><td>180°/s</td></tr><tr><td>Joint1</td><td>±360°</td><td>±360°</td><td>±360°</td></tr><tr><td>Joint2</td><td>-118° ~ 120°</td><td>-118°～120°</td><td>-118°～120°</td></tr><tr><td>Joint3</td><td>-225°~11°</td><td>-225°~11°</td><td>±360°</td></tr><tr><td>Joint4</td><td>-97°~180°</td><td>±360°</td><td>-11°～225°</td></tr><tr><td>Joint5</td><td>±360°</td><td>-97°~180°</td><td>±360°</td></tr><tr><td>Joint6</td><td></td><td>±360°</td><td>-97°~180°</td></tr><tr><td>Joint7</td><td></td><td></td><td>±360°</td></tr></tbody></table>
+
 
 ### 2. Motion Characteristics
 
