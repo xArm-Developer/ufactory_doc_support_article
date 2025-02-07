@@ -1,8 +1,7 @@
 
 # How to use Robotiq Gripper on xArm tool end?
 
-This article mainly explains the connection method of the Robotiq Gripper and
-  xArm, and the usage example of the robotiq gripper.
+This article mainly explains the connection method of the Robotiq Gripper and xArm, and the usage example of the robotiq gripper.
 
 ### 1.  Hardware
 
