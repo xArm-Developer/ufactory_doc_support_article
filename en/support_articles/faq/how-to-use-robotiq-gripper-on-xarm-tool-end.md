@@ -30,7 +30,7 @@ This article mainly explains the connection method of the Robotiq Gripper and xA
 
 The main parameter is the Baud rate, TCP offset, TCP payload, and self-collision prevention model.
 
-### Config the parameter via UFactory Studio
+### 1)Config the parameter via UFactory Studio
 
 TCP Payload and offset: 'Settings-Motion-TCP'.
 
@@ -42,13 +42,14 @@ Please choose 'yes', It will set the baud rate to 115200, the default baud rate 
 
 ![](../assets/image(53).png)
 
-#### Config the parameter via Python SDK
+### 2)Config the parameter via Python SDK
 
 Baud rate:
 
 ```python
 # Modify the baud rate to 115200, the default is 2000000.
 arm.set_tgpio_modbus_baudrate(115200)  
+
 ```
 
 
@@ -86,7 +87,7 @@ arm.set_collision_tool_model(5)
 
 UFactory Studio - Live Control:
 
-<div align="left">
+
 
 ![](../assets/image(4)(1)(1)(1).png)
 
