@@ -24,11 +24,12 @@ The first 6 characters of SN help to identify the model of your robot.
 
 Regardless of the model of the control box:
 
-1\) If your arm is 13xx model or UFactory 850: [The firmware version must be v1.12.10+]
+
+1. If your arm is 13xx model or UFactory 850: The firmware version must be v1.12.10+
 
 Press down the E stop button and release, the friction parameters will load automatically.
 
-2\) If your arm is 12xx model:
+2. If your arm is 12xx model:
 
 Please provide the SN and contact us<[support@ufactory.cc](mailto:support@ufactory.cc)> to remotely put the original friction parameters into the new control box.
 
