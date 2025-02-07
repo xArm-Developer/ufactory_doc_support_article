@@ -2,11 +2,19 @@
 
 This article mainly explains the connection method of the Robotiq Gripper and xArm, and the usage example of the robotiq gripper.
 
-#### 1) Pin Definition
+
+## 1.Hardware
+
+* Gripper: Robotiq 2F-85/ Robotiq 2F-140
+* Robotic Arm: xArm5/ xarm6/ xArm7
+
+## 2.Cable connection
+
+### 1)Pin Definition
 
 ![](../assets/RobotiqGripper.jpg)
 
-#### 2) Connection
+### 2) Connection
 
 | Robotiq connector | Robotiq connector | xArm tool end | xArm tool end |
 |-------------------|-------------------|---------------|---------------|
@@ -18,11 +26,11 @@ This article mainly explains the connection method of the Robotiq Gripper and xA
 | grey              | 485 GND           | green         | GND           |
 
 
-### 3. Parameter Config
+## 3. Parameter Config
 
 The main parameter is the Baud rate, TCP offset, TCP payload, and self-collision prevention model.
 
-#### 1) Config the parameter via UFactory Studio
+### Config the parameter via UFactory Studio
 
 TCP Payload and offset: 'Settings-Motion-TCP'.
 
@@ -34,7 +42,7 @@ Please choose 'yes', It will set the baud rate to 115200, the default baud rate 
 
 ![](../assets/image(53).png)
 
-#### 2) Config the parameter via Python SDK
+#### Config the parameter via Python SDK
 
 Baud rate:
 
@@ -72,9 +80,9 @@ arm.set_collision_tool_model(5)
 ```
 
 
-### 4. Control Method
+## 4. Control Method
 
-#### 1) Control it via UFactory Studio.
+### 1) Control it via UFactory Studio.
 
 UFactory Studio - Live Control:
 
@@ -88,7 +96,7 @@ UFactory Studio - Blockly:
 
 ![](../assets/image(5)(1)(1).png)
 
-#### 2) Control it via Python SDK
+### 2) Control it via Python SDK
 
 Code Example
 ```python
