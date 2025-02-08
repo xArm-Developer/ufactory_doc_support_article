@@ -9,7 +9,7 @@
 
 | Size Parameters: (unit:mm)                  | Joint Coordinate Definition                 |
 | ------------------------------------------- | ------------------------------------------- |
-| ![image](../assets/850_sizeparamater.png) | ![image](../assets/850_modifiedDH_and_Dynamics%20(2).png)|
+| ![image](../assets/850_sizeparamater.png) | ![image](../assets/850_modifiedDH_and_Dynamics(2).png)|
 
 
 | Kinematics | theta offset(deg) | d(mm) | alpha(deg) | a(mm) |
