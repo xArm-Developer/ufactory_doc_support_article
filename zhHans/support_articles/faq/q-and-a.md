@@ -1,34 +1,29 @@
+# 常见问题解答
 
-# Q & A
+关于 UFactory 机器人的常见问题。
 
-Frequently Asked Questions of UFactory Robots.
+---
 
-1\) If the Emergency Button is pressed and then released, will the program continue to run next to the previous program?
+### 1. 如果按下急停按钮并松开后，程序会继续运行吗？
+**答**：不会，控制箱中的所有缓存将被清除，类似于执行 `arm.set_state(4)`。
 
-A: NO, all caches on the control box will be cleared, similar to arm.set\_state(4).
+---
 
+### 2. 可以记录多少个动作？记录的动作可以在 Blockly 中以不同的顺序播放吗？
+**答**：我们对记录的动作数量没有限制，总记录动作数应超过 100 万个。你可以通过“导入”块记录动作并以不同的顺序播放。
 
+---
 
-2\)How many movements can be recorded? Can record movements be played in different orders in Blockly?
+### 3. UFactory 机器人防水吗？
+**答**：不防水，UFactory 机器人和控制器都不防水。  
+我们可以定制防水版本，请将应用场景发送给支持团队。
 
-A: We don't limit the quantity of the record movements, it should be more than 1 million movements in total. You can record movements and play in different orders via the 'Import' block.
+---
 
+### 4. 是否有精度和可靠性测试？
+**答**：是的，每个关节在组装前都会经过测试，并且在发货前会对组装好的机械臂进行 48 小时的 2kg 负载测试。
 
+---
 
-3\) Is the UFactory robot waterproof?
-
-A: No, neither the UFactory robot nor the controller is waterproof.
-
-We can customize the waterproof version, please send the application scenario to the support team.
-
-
-
-4\) Is there an accuracy and reliability test?
-
-A: Yes, each joint would be tested before assembling, and we test the assembled arms with a 2kg payload for 48 hours before shipping.
-
-
-
-5\) What is the warranty period of the UFactory robot?
-
-A: 1 Year.
+### 5. UFactory 机器人的保修期是多久？
+**答**：1 年。
