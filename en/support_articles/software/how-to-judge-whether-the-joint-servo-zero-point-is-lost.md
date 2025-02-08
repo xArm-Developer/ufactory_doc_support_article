@@ -23,7 +23,7 @@ Application scenario: If the TCP payload is set correctly, and the collision det
 3. Enter the IP of the controller, and press enter.
 4. Wait for 2-3 minutes, it will automatically generate a CSV file.
 
-![](../assets/image(5).png)
+![](../assets/3.png)
 
 ### Get a diagram of the current
 
