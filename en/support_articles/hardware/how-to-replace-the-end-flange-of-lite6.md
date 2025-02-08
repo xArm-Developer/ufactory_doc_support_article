@@ -2,7 +2,7 @@
 
 You will receive:
 
-![](/assets/imgage1111.png)
+![](../assets/imgage1111.png)
 
 ### 1. Remove the end flange
 
@@ -10,15 +10,15 @@ You will receive:
 
 Mark the position of the end, at the last step we need to align this line to reinstall the end flange.
 
-![](/assets/img_1.png)
+![](../assets/img_1.png)
 
 2\)  Remove the round sticker with tweezers.
 
-![](/assets/img_2.png)
+![](../assets/img_2.png)
 
 3\) Remove 4 screws using M3 L type wrench.
 
-![](./assets/img_3.png)
+![](../assets/img_3.png)
 
 4\) Remove 4 screws using cross screwdriver.
 
@@ -56,4 +56,4 @@ Costed with yellow liquid glue in one pin module.
 
 ![](../assets/img_12.png)
 
-\
+
