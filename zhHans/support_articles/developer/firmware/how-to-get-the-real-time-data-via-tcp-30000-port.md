@@ -10,8 +10,7 @@
 
 下面简要描述如何使用 30000 端口进行数据报告。
 
-[TCP 端口数据说明](https://github.com/xArm-Developer/ufactory_docs/blob/main/cn/support_articles/Developer/TCP-duan-kou-shu-ju-shuo-ming.md)
-
+[TCP 端口数据说明](data-description-of-tcp-port.md)
 ## 2-python示例
 
 ```php
@@ -196,7 +195,7 @@ plt.show()
 
 例如：
 
-[joint_pose.csv](../assets/joint_pose.csv)
+[joint_pose.csv](https://github.com/xArm-Developer/ufactory_doc_support_article/blob/main/en/support_articles/assets/joint_pos.csv)
 
 
 

@@ -1,4 +1,3 @@
-
 # How to get the real-time data via TCP 30000 port?
 Take port 30000 as an example.
 
@@ -190,7 +189,8 @@ plt.show()
 
 Example:
 
-[joint_pose.csv](../../assets/joint_pose.csv)
+[joint_pose.csv](https://github.com/xArm-Developer/ufactory_doc_support_article/blob/main/en/support_articles/assets/joint_pos.csv)
+
 
 Result:
 
