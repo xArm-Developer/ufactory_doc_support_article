@@ -7,10 +7,10 @@ hero:
   actions:
     - theme: brand
       text: StartReady
-      link: user_manual/ufactoryStudio/1.preface.html
+      link: /support_articles/developer/collision-detection-in-ufactory-robotic-arms-current-and-dynamic-model-based-feature.html
     - theme: alt
       text: Github
-      link: https://github.com/xArm-Developer/ufactory_usermanual
+      link: https://github.com/xArm-Developer/ufactory_doc_support_article
 
 
 features:
@@ -20,7 +20,7 @@ features:
       width: 400
       height: 400
       alt: User Manual
-    link: user_manual/ufactoryStudio/1.preface.html
+    link: /support_articles/developer/collision-detection-in-ufactory-robotic-arms-current-and-dynamic-model-based-feature.html
     details: UFACTORY Studio user manual
   # - title: Python SDK
   #   icon: 
