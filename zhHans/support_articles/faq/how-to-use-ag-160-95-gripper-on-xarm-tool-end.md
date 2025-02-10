@@ -11,7 +11,7 @@
 ## 2.线缆连接
 1） pin针定义
 
-![image](../assets/AG-160-95 gripper.jpg)
+![image](../assets/AG-160-95gripper.jpg)
 
 2）连接部分
 

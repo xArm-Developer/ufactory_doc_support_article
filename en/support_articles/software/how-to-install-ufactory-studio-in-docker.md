@@ -199,4 +199,30 @@ Ubuntu Linux: the robot IP is 172.17.0.2
 
 Windows: the robot IP is 127.0.0.1
 
+#### 5.Run the “Blockly-to-Python” codes with external IDE like VSCode or Pycharm
+In case you copy the “Blockly-to-Python” codes from the internal Python IDE and run in the external IDE like VSCode or Pycharm on your computer, make sure add “check_joint_limit=False” in the line of instantiation like this
 
+```
+arm = XArmAPI('127.0.0.1', baud_checkset=False, check_joint_limit=False)
+```
+
+Note:
+1.Test under Ubuntu 24.04 x86-64 and Windows 11 x86-64
+2.Some uesfull commands
+```
+//Show the running container
+  docker ps
+//Stop the running container
+  docker stop <container ID or container name >
+//Start the container ''uf_software"
+  docker start uf_software
+//Enter the shell of the container “uf_software”
+  docker exec -it uf_software /bin/bash
+```
+
+#### Release notes
+2025.2.5
+
+1.Add methoed of running “Blockly-to-Python” codes with external IDE like VSCode and Pycharm.
+
+2.Modify the commands for Linux Ubuntu 24.04 x86-64
