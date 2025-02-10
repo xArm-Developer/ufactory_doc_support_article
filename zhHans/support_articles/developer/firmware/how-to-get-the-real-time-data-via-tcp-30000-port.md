@@ -195,7 +195,7 @@ plt.show()
 
 例如：
 
-[joint_pose.csv](https://github.com/xArm-Developer/ufactory_doc_support_article/blob/main/en/support_articles/assets/joint_pos.csv?raw=true)
+[joint_pose.csv](https://share.weiyun.com/0tuCPdU7)
 
 
 

@@ -189,7 +189,7 @@ plt.show()
 
 Example:
 
-[joint_pose.csv](https://github.com/xArm-Developer/ufactory_doc_support_article/blob/main/en/support_articles/assets/joint_pos.csv?raw=true)
+[joint_pose.csv](https://drive.google.com/file/d/1DKYDoLIuCeCKZBPQOo4ScnHcj4d3lB6z/view?usp=drive_link)
 
 
 Result:
