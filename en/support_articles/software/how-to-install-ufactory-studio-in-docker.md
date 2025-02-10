@@ -199,7 +199,7 @@ Ubuntu Linux: the robot IP is 172.17.0.2
 
 Windows: the robot IP is 127.0.0.1
 
-#### 5.Run the “Blockly-to-Python” codes with external IDE like VSCode or Pycharm
+### Run the “Blockly-to-Python” codes with external IDE like VSCode or Pycharm
 In case you copy the “Blockly-to-Python” codes from the internal Python IDE and run in the external IDE like VSCode or Pycharm on your computer, make sure add “check_joint_limit=False” in the line of instantiation like this
 
 ```
